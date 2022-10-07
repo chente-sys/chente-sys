@@ -8,3 +8,7 @@
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
+
+<p align="left">
+   <img src="https://img.shields.io/badge/<STATUS>-<Programador Junior>-<green>">
+   </p>
