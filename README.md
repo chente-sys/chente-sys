@@ -10,5 +10,5 @@
 </h4>
 
 <p align="left">
-   <img src="https://img.shields.io/badge/<soy>-Programador Junior-<green>">
+   <img src="https://img.shields.io/badge/soy-Programador Junior-<green>">
    </p>
